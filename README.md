@@ -1,5 +1,10 @@
-## Hi there 👋
+# 👨💻 Li Jiayi (李嘉逸)
 
+> **Zhejiang University** · College of Information Science & Electronic Engineering  
+> B.Eng in Information Engineering   
+> 🎯 Aspiring Master’s candidate in **Communication Engineering & AI-Communication Integration**
+
+---
 <!--
 **AixKevin/aixkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
