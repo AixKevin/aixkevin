@@ -2,7 +2,7 @@
 
 > **Zhejiang University** · College of Information Science & Electronic Engineering  
 > B.Eng in Information Engineering   
-> 🎯 Aspiring Master’s candidate in **Communication Engineering & AI-Communication Integration**
+> 🎯 Aspiring in **Communication Engineering & AI-Communication Integration**
 
 ---
 <!--
