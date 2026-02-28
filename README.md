@@ -1,8 +1,8 @@
-# 👨💻 Li Jiayi (李嘉逸)
+# 1337 AixKevin (Li Jiayi)
 
-> **Zhejiang University** · College of Information Science & Electronic Engineering  
+> **Zhejiang Univ.** · College of Information Science & Electronic Engineering  
 > B.Eng in Information Engineering   
-> 🎯 Aspiring in **Communication Engineering & AI-Communication Integration**
+> Aspiring in **High-Performace Network & AI Infra**
 
 ---
 <!--
