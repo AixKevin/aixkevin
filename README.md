@@ -2,7 +2,7 @@
 
 > **Zhejiang Univ.** · College of Information Science & Electronic Engineering  
 > B.Eng in Information Engineering   
-> Aspiring in **High-Performace Network & AI Infra**
+> Aspiring in **Cross-Platform Dev & High-Performace Network & AI Infra**
 
 ---
 <!--
