@@ -1,4 +1,4 @@
-# 1337 AixKevin (Jiayi Li)
+# AixKevin (Jiayi Li)
 
 > **Zhejiang University** · College of Information Science & Electronic Engineering  
 > I am a graduate student in ZJU (MSc EIE)  
