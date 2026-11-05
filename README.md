@@ -1,8 +1,8 @@
-# 1337 AixKevin (Li Jiayi)
+# 1337 AixKevin (Jiayi Li)
 
-> **Zhejiang Univ.** · College of Information Science & Electronic Engineering  
-> B.Eng in Information Engineering   
-> Aspiring in **Cross-Platform Dev & High-Performace Network & AI Infra**
+> **Zhejiang University** · College of Information Science & Electronic Engineering  
+> I am a graduate student in ZJU (MSc EIE)  
+> I am interested in MLLM and MLSys
 
 ---
 <!--
